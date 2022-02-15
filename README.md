@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Shin_Euiseong&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 
-[![shineuiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=shineuiseong&count_private=true)](https://github.com/shineuiseong/github-readme-stats)
+[![shineuiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=shineuiseong&count_private=true)](https://github.com/shineuiseong)
 
 ## Skills & Learning
 
