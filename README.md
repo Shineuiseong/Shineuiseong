@@ -17,7 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/SQlite-4479A1?style=flat-square&logo=SQlite&logoColor=white"/>
 
-## Web Learning (2020.10~)
+## Web Learning (2021.10~)
 
 <h4>Frontend</h4>
 <div>
