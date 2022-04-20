@@ -34,10 +34,14 @@
 <h4>Backend</h4>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Express-6BD80B?style=flat-square&logo=Express&logoColor=ffffff"></img>
+   <img src="https://img.shields.io/badge/Express-6BD80B?style=flat-square&logo=Express&logoColor=ffffff"></img>  
+</div>
+<h4>DevOps</h4>
+<div>
    <img src="https://img.shields.io/badge/aws-FF7328?style=flat-square&logo=amazonaws&logoColor=white"/>
    <img src="https://img.shields.io/badge/docker-1B72BE?style=flat-square&logo=docker&logoColor=white"/>
 </div>
+
 
 
 <h4>DataBase</h4>
