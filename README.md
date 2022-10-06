@@ -3,7 +3,7 @@
 
 [![shineuiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=shineuiseong&count_private=true)](https://github.com/shineuiseong)
 
-# Company experience!!
+## Company experience!!
 
 <h2><strong>skill</strong></h4>
 
