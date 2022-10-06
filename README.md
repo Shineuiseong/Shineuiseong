@@ -5,15 +5,13 @@
 
 ## Company experience!!
 
-<h2><strong>skill</strong></h4>
-
-* <h3>(주)비주얼신 2022.06 ~ </h3>
+* <h3>(주)비주얼신(VisualSyn) 2022.06 ~ </h3>
   <br/>
   <img src="https://img.shields.io/badge/Nuxt-000000?style=flat-square&logo=Nuxt.js&logoColor=green"/>
   <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=Vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Vuetify-FFFFFF?style=flat-square&logo=Vuetify&logoColor=1867C0"/>
 
-* <h3>(주)세오 2020.04~2021.12</h2>
+* <h3>(주)세오(Seo) 2020.04~2021.12</h2>
   <br/>
   <img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23WPF-0A84FF?style=flat-square&logo=Csharp&logoColor=white"/>
@@ -64,6 +62,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shineuiseong&layout=compact)](https://github.com/shineuiseong/github-readme-stats)
 <!--START_SECTION:waka-->
 
-Last Updated on 2022.10.06 
+Last Updated on 15/02/2022 16:40:30 UTC
 
 <!--END_SECTION:waka-->
