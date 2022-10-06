@@ -64,6 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shineuiseong&layout=compact)](https://github.com/shineuiseong/github-readme-stats)
 <!--START_SECTION:waka-->
 
-Last Updated on 15/02/2022 16:40:30 UTC
+Last Updated on 2022.10.06 
 
 <!--END_SECTION:waka-->
