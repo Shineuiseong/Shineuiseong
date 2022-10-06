@@ -3,11 +3,17 @@
 
 [![shineuiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=shineuiseong&count_private=true)](https://github.com/shineuiseong)
 
-## Skills & Learning
+# Company experience!!
 
-<h4>Application skill</h4>
+<h2><strong>skill</strong></h4>
 
-- (주)SEO 2020.04~2021.12
+* <h3>(주)비주얼신 2022.06 ~ </h3>
+  <br/>
+  <img src="https://img.shields.io/badge/Nuxt-000000?style=flat-square&logo=Nuxt.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=Vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Vuetify-FFFFFF?style=flat-square&logo=Vuetify&logoColor=1867C0"/>
+
+* <h3>(주)세오 2020.04~2021.12</h2>
   <br/>
   <img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23WPF-0A84FF?style=flat-square&logo=Csharp&logoColor=white"/>
@@ -52,7 +58,7 @@
 
 </div>
 
-  
+
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shineuiseong&layout=compact)](https://github.com/shineuiseong/github-readme-stats)
