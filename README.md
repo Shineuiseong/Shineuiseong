@@ -1,67 +1,67 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Shin_Euiseong&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 
-[![shineuiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=shineuiseong&count_private=true)](https://github.com/shineuiseong)
+<!--[![shineuiseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=shineuiseong&count_private=true)](https://github.com/shineuiseong)-->
 
 ## Company experience!!
 
-* <h3>(주)비주얼신(VisualSyn) 2022.06 ~ </h3>
-  <br/>
-  <img src="https://img.shields.io/badge/Nuxt-000000?style=flat-square&logo=Nuxt.js&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=Vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Vuetify-FFFFFF?style=flat-square&logo=Vuetify&logoColor=1867C0"/>
+* <h3>(주) 비주얼신 (VisualSyn) 2022.06 ~ </h3>
+  <p align="start">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,vue,nuxtjs,vuetify,pinia,docker" />
+    </a>
+  </p>
 
-* <h3>(주)세오(Seo) 2020.04~2021.12</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=Csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23WPF-0A84FF?style=flat-square&logo=Csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-java-339933?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-python-0A84FF?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-4479A1?style=flat-square&logo=SQLServer&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/SQlite-4479A1?style=flat-square&logo=SQlite&logoColor=white"/>
+* <h3>(주) 세오(Seo) 2020.04~2021.12 </h2>
+  <p align="start">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,c#" />
+        <img src="https://skillicons.dev/icons?i=dotnet" />
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+    </a>
+  </p>
+
+* <h3>(주) 스태프 프로젝트 2019.01~2020.04 </h2>
+
+<br/>
 
 ## Web development (2021.10~)
 
 <h4>Frontend</h4>
 <div>
- <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/SCSS-fd79a8?style=flat-square&logo=Sass&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/></a>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=Csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
+    <p align="start">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,vue,nuxtjs,pinia,vuetify,react,nextjs" />
+    </a>
+  </p>
 </div>
 <h4>Backend</h4>
 <div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Express-6BD80B?style=flat-square&logo=Express&logoColor=ffffff"></img>  
+  <p align="start">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+    </a>
+  </p>
 </div>
-<h4>DevOps</h4>
-<div>
-   <img src="https://img.shields.io/badge/aws-FF7328?style=flat-square&logo=amazonaws&logoColor=white"/>
-   <img src="https://img.shields.io/badge/docker-1B72BE?style=flat-square&logo=docker&logoColor=white"/>
-</div>
-
-
 
 <h4>DataBase</h4>
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-FF0000?style=flat-square&logo=MongoDB&logoColor=white"/>
-
+  <p align="start">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+    </a>
+  </p>
 </div>
 
+<h4>DevOps</h4>
+<div>
+  <p align="start">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,jenkins" />
+    </a>
+  </p>
+</div>
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shineuiseong&layout=compact)](https://github.com/shineuiseong/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shineuiseong&layout=compact)](https://github.com/shineuiseong/github-readme-stats)-->
 <!--START_SECTION:waka-->
-
-Last Updated on 15/02/2022 16:40:30 UTC
-
 <!--END_SECTION:waka-->
